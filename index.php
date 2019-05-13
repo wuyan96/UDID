@@ -6,7 +6,9 @@
 <title>获取您的UDID</title>
 <body>
 <div id="content">
- 
+<?php
+$UDID =  $_GET['UDID'] ? $_GET['UDID'] : $_POST['UDID'];
+?>
 UUDI:<input style="" name="" value="$udid" /> 
  
 <a class="buttons" href="udid.mobileconfig" target="_blank">1.点击获取您的UDID</a>
