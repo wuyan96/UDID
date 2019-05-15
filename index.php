@@ -93,7 +93,7 @@ body {
 
 <br><br>
 
-<a class="buttons" href="udid.mobileconfig" target="_blank">获取UDID</a>
+<a class="buttons" href="udid_signed.mobileconfig" target="_blank">获取UDID</a>
 <a class="buttons" id="copyButton" data-clipboard-target="#showText">拷贝UDID</a>
 
 <br><br>
